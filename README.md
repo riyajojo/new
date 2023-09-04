@@ -1,6 +1,6 @@
 Hi all,this is my first repository.
 <br>
-Happy learning
+Happy learning all.
 
 <!---
 riyajojo/riyajojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
